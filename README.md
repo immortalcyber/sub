@@ -1,2 +1,1 @@
-# sub.github.io
-site for my sub
+#sub for v2ray
