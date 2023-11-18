@@ -1,9 +1,15 @@
+سسشعرآباد Chat, [11/17/2023 6:50 PM]
+-----------------Nekobox Config IPv6----------------
+hysteria2://fr0mh3r3w1t4l0ve2UAt2024@[2a01:4f8:c013:171b::1]:2083/?insecure=1&obfs=salamander&obfs-password=fr0mh3r3w1t4l0ve2UAt2024&sni=google.com#HysteriaV2 IPv6
 
-trojan://7c7e0edb-c45a-4c07-b66a-69b191179349@us.disnet.gq:443?security=tls&fp=chrome&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-192.9.130.66-0119
-trojan://17c6c64e-eb3c-44ae-98f8-d469713f91f1@198.148.111.112:443?security=tls&sni=rnrn3g.555456.xyz&fp=chrome&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8US-198.148.111.112-7095
-vless://b3763e71-5868-4842-ac3c-63eb3766197b@mcin.ircf.space:8443?encryption=none&security=tls&fp=chrome&type=ws&host=tzvvct-8080.csb.app&path=%2Fvl#vless%20csb%20hamrah
-vless://fc03933c-9b0b-4eab-9c5f-626ea67c5bff@lars.ns.cloudflare.com:8443?encryption=none&security=tls&sni=iraniancp.autos&fp=chrome&type=ws&host=b4.iraniancp.autos&path=%2F%3Fed%3D2048#hamrah
-trojan://cab121ab-da8a-435f-bc51-959a79c956da@52.79.146.140:50186?security=tls&sni=kr-s-1.fuckjdieng.uk&fp=chrome&type=tcp&headerType=none&host=undefined#Trojan
-vless://46d69527-b499-4f16-ae7d-4ee4a62e8c1b@mafi.zanbil-mo.cf:2052?encryption=none&security=none&type=ws&path=%2F#Vless
-vless://3365caca-abaa-47ba-ed1d-7e81c753fabe@104.18.231.187:2083?encryption=none&security=tls&sni=iraniancp.autos&fp=chrome&type=ws&host=b6.iraniancp.autos&path=%2F%3Fed%3D2048#Vless%20Hmarah
-vless://6ee8584d-4e61-4e77-88b2-7542e3601d8a@shm.ircf.space:443?encryption=none&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=8by98e-8080.csb.app&path=%2Fvless#vless%20csb%202
+سسشعرآباد Chat, [11/17/2023 6:51 PM]
+----------------Nekobox Config IPv4-----------------
+hysteria2://fr0mh3r3w1t4l0ve2UAt2024@159.69.51.108:2083/?insecure=1&obfs=salamander&obfs-password=fr0mh3r3w1t4l0ve2UAt2024&sni=google.com#HysteriaV2 IPv4
+
+سسشعرآباد Chat, [11/17/2023 6:53 PM]
+-----------------Tuic Config IPv6----------------
+tuic://30b0c65c-789f-45a2-a6f9-4f4c39bdbf7d:M3L0v3IRAN43v3rV1vaIraN@[2a01:4f8:c013:171b::1]:8083/?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#Tuic IPv6
+
+سسشعرآباد Chat, [11/17/2023 6:53 PM]
+----------------Tuic Config IPv4-----------------
+tuic://30b0c65c-789f-45a2-a6f9-4f4c39bdbf7d:M3L0v3IRAN43v3rV1vaIraN@159.69.51.108:8083/?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#Tuic IPv4
