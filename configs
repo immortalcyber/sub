@@ -9,4 +9,4 @@ tuic://30b0c65c-789f-45a2-a6f9-4f4c39bdbf7d:M3L0v3IRAN43v3rV1vaIraN@[2a01:4f8:c0
 
 ----------------Tuic Config IPv4-----------------
 tuic://30b0c65c-789f-45a2-a6f9-4f4c39bdbf7d:M3L0v3IRAN43v3rV1vaIraN@159.69.51.108:8083/?congestion_control=bbr&udp_relay_mode=native&alpn=h3,spdy/3.1&allow_insecure=1#Tuic IPv4
-hy2://ab8660dc10c33e93@159.69.51.108:8080/?obfs=salamander&obfs-password=8e654316&insecure=1#alstar
+hy2://ab8660dc10c33e93@01:4f8:c013:171b::1:8080/?obfs=salamander&obfs-password=8e654316&insecure=1#alstar
